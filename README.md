@@ -76,7 +76,8 @@ portfolios.
     skills.
     
 👀🔎 Preview / Demo
-Preview -
+
+Preview -https://github.com/Rashmirh25/Retail-Sales-Dashboard-PowerBI-/blob/main/Retail%20sales%20performance%20dashboard%20preview.PNG
 
 **Rashmi Hegde**  
 📅 Year: 2025  
